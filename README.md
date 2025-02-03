@@ -1,6 +1,6 @@
 # Exercise: Singly Linked List
 
-1. In [LinkedList class](/home/ebslab-1/Zahid/py/pyHUB/data-structures-algorithms/data-structure/Linked-List/singly-Linked-List/singly_linked_list.py) that we implemented in our tutorial add following two methods,
+1. In [LinkedList class](https://github.com/AskZahidAhmed/data-structures-algorithms/blob/main/data-structure/Linked-List/singly-Linked-List/singly_linked_list.py) that we implemented in our tutorial add following two methods,
 ```
 def insert_after_value(self, data_after, data_to_insert):
     # Search for first occurance of data_after value in linked list
